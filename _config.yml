@@ -13,8 +13,7 @@ description: 武凭三尺锋，文成半纸缄
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://avatars2.githubusercontent.com/u/52882842?s=400&u=3b92f92609a280c348881cae01c24c4c7d767731&v=4
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -64,7 +63,7 @@ url: https://swordtalk.github.io/Blog/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: /terminus-jekyll-template
+baseurl: Blog
 
 #
 # !! You don't need to change any of the configuration flags below !!
